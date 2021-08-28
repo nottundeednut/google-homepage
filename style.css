@@ -1,0 +1,18 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.left ul li {
+    float: left;
+}
+
+.right ul li {
+    float: right;
+}
+
+a {
+    display: block;
+    padding: 8px;
+  }
